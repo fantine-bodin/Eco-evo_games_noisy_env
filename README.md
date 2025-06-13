@@ -1,2 +1,3 @@
-# Eco-evo_games_noisy_env
-Code for the study "Eco-evolutionary games in noisy environments"
+# Eco-evolutionary games in noisy environments
+Code for the study "Eco-evolutionary games in noisy environments" realized with Joshua B. Plotkin.
+This repository contains the Jupyter Notebook file used to perform the simulations and to make the figures for the study of eco-evolutionary games in noisy environments. It included code to plot bifurcation diagram, portrait phases, trajectories over time and empirical and analytical stationary distributions for several values of carrying capacity of environmental resources and for several values for timescale parameter. It allows to perform the simulations for all types of 2x2 symmetric games.
